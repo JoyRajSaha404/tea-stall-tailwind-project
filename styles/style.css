@@ -1,0 +1,12 @@
+.tea-btn-bg-color {}
+
+.trans{
+    transform: translate(720px, -40px);
+}
+@media screen and (max-width:576px) {
+
+    .trans{
+
+    transform: translate(0px, 0px);
+}
+}
